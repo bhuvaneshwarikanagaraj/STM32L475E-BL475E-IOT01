@@ -1,0 +1,10 @@
+1. INTRODUCTION TO STM32L4 IoT DISCOVERY KIT
+
+https://www.youtube.com/watch?v=6eUqxjBL_wI
+
+
+2.Exploring The Variation in STM32 Board
+
+     2a)https://www.youtube.com/watch?v=rfBeq-Fu0hc&t=399s
+     2b)https://www.youtube.com/watch?v=Hffw-m9fuxc&t=1139s
+     2c)https://www.youtube.com/watch?v=AjN58ceQaF4(Just the logic)
